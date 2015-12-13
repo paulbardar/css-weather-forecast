@@ -37,6 +37,7 @@ h1 {
 	border: 2px solid white;
 	text-align: center;
 	padding: 15px 30px;
+	cursor: pointer;
 }
 .city-name {
 	padding: 10px 0;
